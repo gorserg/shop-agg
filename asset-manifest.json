@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/shop-agg/static/js/main.845be21e.chunk.js",
+    "main.js.map": "/shop-agg/static/js/main.845be21e.chunk.js.map",
+    "runtime~main.js": "/shop-agg/static/js/runtime~main.3d910e0f.js",
+    "runtime~main.js.map": "/shop-agg/static/js/runtime~main.3d910e0f.js.map",
+    "static/js/2.3297f76e.chunk.js": "/shop-agg/static/js/2.3297f76e.chunk.js",
+    "static/js/2.3297f76e.chunk.js.map": "/shop-agg/static/js/2.3297f76e.chunk.js.map",
+    "index.html": "/shop-agg/index.html",
+    "precache-manifest.9b47ccbc1450ae9ae0613d903e69da8f.js": "/shop-agg/precache-manifest.9b47ccbc1450ae9ae0613d903e69da8f.js",
+    "service-worker.js": "/shop-agg/service-worker.js"
+  }
+}
